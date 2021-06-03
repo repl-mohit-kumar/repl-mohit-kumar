@@ -5,7 +5,7 @@
 </p>
 
 - 🔭 Hi, I’m @repl-mohit-kumar MOHIT KUMAR MANDHRE, associated with replicon as a Trainee-Software-Engineer .
-- 2016 – 2020		Shri Shankaracharya Engineering College ( SSEC, Bhilai ) Computer Science Engineering , Graduation Percentage :- 82.65 % , CPI :- 9.2 .
+- 2016 – 2020		Shri Shankaracharya Engineering College ( SSEC, Bhilai ) Computer Science Engineering .
 - 👀 To pursue post-graduate studies in Computer Science and Engineering, leading to a career in research.I’m also interested in computer vision and machine learning.
 - 🌱 I’m currently learning ...
 - 📫 E-mail :- mohitmandhre@gmail.com
